@@ -2,13 +2,7 @@
 
  ---
  
-   <div align="center">
-
- ![Marlon Gracietti github stats](https://github-readme-stats.vercel.app/api?username=mgracietti&show_icons=true&theme=dark)
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgracietti&theme=dark)](https://github.com/DevPraxis/gaizer-core)
--->
-<a>
+ <a>
    <p>
 Full-stack dev * DAte enginner * Bachelor in SI
    </p>    
@@ -22,6 +16,15 @@ Family * Music * Code * friends * beer
 </a>
    </div>
  
+ ---
+ 
+   <div align="center">
+
+ ![Marlon Gracietti github stats](https://github-readme-stats.vercel.app/api?username=mgracietti&show_icons=true&theme=dark)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgracietti&theme=dark)](https://github.com/DevPraxis/gaizer-core)
+-->
+
 
    <div align="center">
 
