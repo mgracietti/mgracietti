@@ -7,7 +7,19 @@
  ![Marlon Gracietti github stats](https://github-readme-stats.vercel.app/api?username=mgracietti&show_icons=true&theme=dark)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgracietti&theme=dark)](https://github.com/DevPraxis/gaizer-core)
-
+-->
+<a>
+   <p>
+Full-stack dev * DAte enginner * Bachelor in SI
+   </p>    
+System promamming languages * DevOps
+   <p> 
+Design and customization * 
+   </p>
+<p>  
+Family * Music * Code * friends * beer
+</p>  
+</a>
    </div>
  
 
