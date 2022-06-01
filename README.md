@@ -4,14 +4,14 @@
  
  <a>
    <p>
-Full-stack dev * DAte enginner * Bachelor in SI
+Full-stack dev * Data enginner * Bachelor in SI
    </p>    
 System promamming languages * DevOps
    <p> 
 Design and customization * 
    </p>
 <p>  
-Family * Music * Code * friends * beer
+Family * Music * Code * Friends * Beer
 </p>  
 </a>
    </div>
