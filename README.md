@@ -40,3 +40,6 @@ Family * Music * Code * Friends * Beer
 
    </div>
 
+   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="mgamorim" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/mgamorim?trk=profile-badge">Marlon Gracietti de Amorim</a></div>
+              
+
